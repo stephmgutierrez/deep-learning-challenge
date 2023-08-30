@@ -18,4 +18,4 @@ IS_SUCCESSFUL—Was the money used effectively
 
 
 Summary:
-The model was able to achieve a 74% accouracy (0.7370). While this is a decent achievement, perhaps using another model such as Random Forest would be more beneficial since Random Forests are less influenced by outliers and this is a popular model used by banks and the stock market.
+The model was able to achieve a 74% accouracy (0.7370). While this is a decent achievement, perhaps using another model such as Random Forests would be more beneficial since Random Forests are less influenced by outliers and this is a popular model used by banks and the stock market.
